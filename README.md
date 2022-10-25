@@ -12,8 +12,24 @@
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="120"/>
 
-Git bash เป็นโปรแกรม GNU Bash ตัวหนึ่งที่มีลักษณะเป็น Terminal ที่รองรับคำสั่ง git มีให้ใช้ทั้งบน Windows, macOS และ Linux/Unix 
+Git bash เป็นโปรแกรม GNU Bash ตัวหนึ่งที่มีลักษณะเป็น Terminal ที่รองรับคำสั่ง git มีให้ใช้ทั้งบน Windows, macOS และ Linux/Unix  ดูรายละเอียดได้จาก <https://git-scm.com/>
 
-#### 1.2 Github Desktop
+<img src="Pictures/pic-01.png"/>
 
+
+#### 1.2 Git GUI Clients
+
+เมื่อเราติดตั้ง gitbash จะมีโปรแกรมอีกตัวที่เป็น GUI ติดมาด้วย (ชื่อว่า Git GUI) โดยจะมีส่วนติดต่อผู้ใช้แบบกราฟฟิกส์ สำหรับการ commit, push, pull และอื่น ๆ  
+
+__ตัวอย่างโปรแกรม git GUI__
+1. เรียกโปรแกรม git GUI และเปิด repository ที่เคยได้ clone ไว้ใน harddisk
+
+<img src="Pictures/pic-02.png"/>
+
+2. ลักษณะของโปรแกรม git GUI ที่มาพร้อมกับ git bash
+
+<img src="Pictures/pic-03.png"/>
+
+
+นอกจาก git GUI แล้วยังมีโปรแกรม git GUI Clients อีกหลายตัว ทั้งชนิดที่ฟรีและมีค่าใช้จ่ายสำหรับหารซื้อ License (ดูรายละเอียดได้ที่ https://git-scm.com/downloads/guis และ https://git.wiki.kernel.org/index.php/InterfacesFrontendsAndTools)
 
