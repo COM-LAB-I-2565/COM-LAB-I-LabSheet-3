@@ -44,8 +44,5 @@ Github Desktop เป็น git GUI ที่พัฒนาโดย Github ส
 
 Git สำหรับ Visual studio เป็น extension ที่ติดตั้งบน Microsoft Visual Studio ที่ช่วยอำนวยความสะดวกในการทำงานกับ git ได้อย่างราบรื่นและรวดเร็ว สามารถศึกษาเพิ่มเติมได้จาก <https://learn.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio?view=vs-2022> หรือ <https://visualstudio.microsoft.com/vs/github/>
 
-
-
-
 <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/08/image4.jpg">
 
