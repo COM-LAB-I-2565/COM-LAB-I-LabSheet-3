@@ -10,7 +10,7 @@
 
 #### 1.1 Git bash
 
-![](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png | width=100)
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="120"/>
 
 Git bash เป็นโปรแกรม GNU Bash ตัวหนึ่งที่มีลักษณะเป็น Terminal ที่รองรับคำสั่ง git มีให้ใช้ทั้งบน Windows, macOS และ Linux/Unix 
 
