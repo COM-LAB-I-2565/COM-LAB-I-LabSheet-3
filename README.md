@@ -40,3 +40,4 @@
 
 <img src = "./Pictures/Fig-04.png">
 
+<img src = "./C:\Users\User\Desktop\ปี2เทอม1\COMPUTER LABORATORY 1\COMLAB">
