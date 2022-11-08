@@ -38,6 +38,7 @@
 
 ในการเล่นเกม จะมีการอสดงคำแนะนำในขั้นค่างๆ ให้นักศึกษาอ่านและทำความเข้าใจคำสั่งก่อนลงมือปฏิบัติ
 
+
 <img src = "./Pictures/Fig-04.png">
 
 ![Slide1](https://user-images.githubusercontent.com/115066359/198016519-e93ce74c-603a-4e6f-9b8e-bbedf53bad1d.PNG)
